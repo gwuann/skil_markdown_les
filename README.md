@@ -1,4 +1,5 @@
 # Vanille Cupcake Recept!
+![basisrecept_cupcakes_maken](https://github.com/gwuann/skil_markdown_les/assets/144899396/75d3ed56-e941-4d5d-a1ec-0652af8a5869)
 ## Benodigheden
 Voorbereidingstijd: 15 minuten
 Baktijd: 25 minuten
